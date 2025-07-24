@@ -1,3 +1,5 @@
+![CivicAI Banner](assets/civicai-banner.jpg)
+
 #homa-bay legal hack#
 # CivicAI - Multilingual Civic Education via SMS/WhatsApp
 
